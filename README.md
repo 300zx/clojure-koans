@@ -1,5 +1,10 @@
 # Clojure Koans
 
+05/22/2015
+
+My solutions for Clojure koans. 
+
+### Offical Doc
 The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
