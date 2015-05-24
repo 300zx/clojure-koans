@@ -21,3 +21,4 @@
 (reduce (fn [a b] (if (< (count b) (count a) b a)) ["which" "word" "is" "longer"]))
 (reduce (fn [a b] (if (< (count b) (count a)) b a)) ["which" "word" "is" "longer"])
 (reduce (fn [a b] (if (< (count a) (count b)) b a)) ["which" "word" "is" "longer"])
+(doc defmethod)
